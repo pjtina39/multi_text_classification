@@ -9,4 +9,5 @@ dependencies = [
     "ipykernel>=7.2.0",
     "jinja2<3.0",
     "jinjasql>=0.1.8",
+    "scikit-learn>=1.8.0",
 ]
